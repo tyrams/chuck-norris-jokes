@@ -2,10 +2,7 @@
 
 <img src="client/public/image.png" style="border-radius: 8px;"/>
 
-##
-
 #
-
 # GraphQL Server
 
 cd into the `/server` directory, assuming you have [npm](https://www.npmjs.com/get-npm) installed, you can install the project dependencies(node_modules) by running:
