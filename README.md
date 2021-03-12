@@ -1,6 +1,10 @@
 # Getting Started with Chuck Norris API Mini Project
 
-### After cloning this repo
+<img src="client/public/image.png" style="border-radius: 8px;"/>
+
+##
+
+#
 
 # GraphQL Server
 
@@ -25,7 +29,9 @@ Open [http://localhost:4000/graphql](http://localhost:4000/graphql) to view the 
 
 ### For Jokes by Category
 
-### ` jokes(category: "music") { icon_url value url }`
+### `{ jokes(category: "music") { icon_url value url } }`
+
+#
 
 # REACT APOLLO CLIENT
 
